@@ -3,3 +3,9 @@
   to = "/public/portfolio.pdf"
   status = 200
   force = true
+
+[[redirects]]
+  from = "/"
+  to = "/portfolio"
+  status = 200
+  force = true
