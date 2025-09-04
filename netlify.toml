@@ -1,5 +1,5 @@
 [[redirects]]
-from = "portfolio"
+from = "/portfolio"
 to = "/portfolio.pdf"
 status = 200
 force = true
